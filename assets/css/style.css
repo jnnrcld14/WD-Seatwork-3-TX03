@@ -17,19 +17,18 @@ header {
     padding: 10px;
 }
 header h1{
-    text-align:center;
-    margin-bottom:10px;
+    text-align:left;
+    margin-bottom:4px;
     color:#fff;
 }
 header h3{
-    text-align: center;
+    text-align: left;
     margin-bottom: 2px;
     color: #fff;
 }
 header nav ul {
     display: flex;
     justify-content: center;
-    list-style: none;
 }
 header nav ul li {
     margin: 10px;px;

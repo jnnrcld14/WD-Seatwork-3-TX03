@@ -61,13 +61,13 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
-  The project is about making five headers without animation and another five headers with animation. As well as the footer another set of five footers without animation and another set with animation.
+  = The project is about making five headers without animation and another five headers with animation. As well as the footer another set of five footers without animation and another set with animation.
 - Whats the purpose
-  To gain knowledge and to master in making headers and footers with the knowledge and experience from HTML and CSS.
+  = To gain knowledge and to master in making headers and footers with the knowledge and experience from HTML and CSS.
 - What are key components
-  Ten headers and ten footers
+  = Ten headers and ten footers
 - What technology used and how it is used
-  HTML and CSS
+  = HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->

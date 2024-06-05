@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/jnnrcld14/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/omithepoet.png" alt="Omi" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD-Seatwork-3</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This seatwork is all about considering and creating different kinds of headers and footers.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+<a href="https://app.daily.dev/jnnrcld_14"><img src="https://api.daily.dev/devcards/v2/LUPWjwla9tWkfNsegLnj5.png?r=meq&type=wide" width="652" alt="Janna Ladia's Dev Card"/></a>
 
 ---
 
@@ -61,22 +61,26 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  The project is about making five headers without animation and another five headers with animation. As well as the footer another set of five footers without animation and another set with animation.
 - Whats the purpose
+  To gain knowledge and to master in making headers and footers with the knowledge and experience from HTML and CSS.
 - What are key components
+  Ten headers and ten footers
 - What technology used and how it is used
+  HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
 - Parallax transition
-- Transactional
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.

@@ -13,7 +13,7 @@ body {
     padding: 20px;
 }
 header {
-    background: linear-gradient(135deg, #13A465 0%, #2388CB 45%, #2A2F93 100%);
+    background: linear-gradient(135deg, #1354a4 0%, #2388CB 45%, #2A2F93 100%);
     padding: 10px;
 }
 header h1{
@@ -23,7 +23,7 @@ header h1{
 }
 header h3{
     text-align: center;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
     color: #fff;
 }
 header nav ul {
@@ -32,7 +32,7 @@ header nav ul {
     list-style: none;
 }
 header nav ul li {
-    margin:15px;
+    margin: 10px;px;
 }
 header nav ul li a {
     color: #fff;

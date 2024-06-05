@@ -28,7 +28,6 @@ header h3{
 }
 header nav ul {
     display: flex;
-    justify-content: center;
 }
 header nav ul li {
     margin: 10px;px;

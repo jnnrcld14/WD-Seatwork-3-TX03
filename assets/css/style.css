@@ -12,7 +12,7 @@ body {
     margin: 0;
     padding: 20px;
 }
-header {
+header-design-1{
     background: linear-gradient(135deg, #1354a4 0%, #2388CB 45%, #2A2F93 100%);
     padding: 10px;
 }
@@ -34,5 +34,31 @@ header nav ul li {
 }
 header nav ul li a {
     color: #fff;
+    text-decoration: none;
+}
+header-design-2 {
+    background: #D8DD2F;
+    background: -moz-linear-gradient(top, #D8DD2F 0%, #BC6824 50%, #D8453D 100%);
+    background: -webkit-linear-gradient(top, #D8DD2F 0%, #BC6824 50%, #D8453D 100%);
+    background: linear-gradient(to bottom, #D8DD2F 0%, #BC6824 50%, #D8453D 100%);
+}
+header h1{
+    text-align:left;
+    margin-bottom:4px;
+    color:#000000;
+}
+header h3{
+    text-align: left;
+    margin-bottom: 2px;
+    color: #060000;
+}
+header nav ul {
+    display: flex;
+}
+header nav ul li {
+    margin: 10px;px;
+}
+header nav ul li a {
+    color: #000000;
     text-decoration: none;
 }

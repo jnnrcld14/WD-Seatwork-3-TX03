@@ -72,7 +72,6 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- Active Effect
 - Hover Effect
 
 

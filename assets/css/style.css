@@ -1,73 +1,90 @@
 * {
     margin: 0;
-    padding: 0%;
+    padding: 0;
     box-sizing: border-box;
 }
+
 body {
     font-family: 'Times New Roman', Times, serif;
-    line-height: 1;
+    line-height: 1.5; /* Improved readability */
 }
-.container{
+
+.container {
     width: 30%;
-    margin: 0;
+    margin: 0 auto; /* Center the container */
     padding: 20px;
 }
-header-design-1 {
+
+.header-design-1 {
     background: linear-gradient(135deg, #1354a4 0%, #2388CB 45%, #2A2F93 100%);
     padding: 10px;
-    height: calc(50px + 1);
+    height: 51px; /* calc(50px + 1px) */
+    display: flex; /* Ensure flexbox properties work */
     align-items: center;
     justify-content: space-between;
 }
-header h1{
-    text-align:left;
-    margin-bottom:4px;
-    color:#fff;
-}
-header h3{
-    text-align: left;
-    margin-bottom: 2px;
+
+.header-design-1 h1, .header-design-1 h3 {
     color: #fff;
 }
-header nav ul {
+
+.header-design-1 h1 {
+    text-align: left;
+    margin-bottom: 4px;
+}
+
+.header-design-1 h3 {
+    text-align: left;
+    margin-bottom: 2px;
+}
+
+.header-design-1 nav ul {
     display: flex;
     align-items: center;
 }
-header nav ul li {
+
+.header-design-1 nav ul li {
     margin: 10px;
 }
-header nav ul li a {
+
+.header-design-1 nav ul li a {
     color: #fff;
     text-decoration: none;
 }
-header-design-2 {
-    background: #D8DD2F;
-    background: -moz-linear-gradient(top, #D8DD2F 0%, #BC6824 50%, #D8453D 100%);
-    background: -webkit-linear-gradient(top, #D8DD2F 0%, #BC6824 50%, #D8453D 100%);
+
+.header-design-2 {
     background: linear-gradient(to bottom, #D8DD2F 0%, #BC6824 50%, #D8453D 100%);
     padding: 10px;
-    height: calc(50px + 1);
+    height: 51px; /* calc(50px + 1px) */
+    display: flex; /* Ensure flexbox properties work */
     align-items: center;
     justify-content: space-between;
 }
-header h1{
-    text-align:left;
-    margin-bottom:4px;
-    color:#000000;
+
+.header-design-2 h1, .header-design-2 h3 {
+    color: #000; /* Use consistent colors */
 }
-header h3{
+
+.header-design-2 h1 {
+    text-align: left;
+    margin-bottom: 4px;
+}
+
+.header-design-2 h3 {
     text-align: left;
     margin-bottom: 2px;
-    color: #060000;
 }
-header nav ul {
+
+.header-design-2 nav ul {
     display: flex;
     align-items: center;
 }
-header nav ul li {
+
+.header-design-2 nav ul li {
     margin: 10px;
 }
-header nav ul li a {
-    color: #000000;
+
+.header-design-2 nav ul li a {
+    color: #000;
     text-decoration: none;
 }

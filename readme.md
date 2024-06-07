@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This seatwork is all about considering and creating different kinds of headers and footers.
+  This seatwork is all about demonstrating the skills and knowledge we know in HTML and CSS. As well as, creating different kinds of headers and footers.
 </div>
 
 <br />
@@ -72,8 +72,8 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
+- Active Effect
+- Hover Effect
 
 
 ### Technology

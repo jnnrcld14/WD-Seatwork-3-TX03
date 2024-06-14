@@ -6,63 +6,79 @@
 
 body {
     font-family: 'Times New Roman', Times, serif;
-    line-height: 1.5; /* Improved readability */
+    line-height: 1.5; 
 }
 
 .container {
     width: 30%;
-    margin: 0 auto; /* Center the container */
+    margin: 0 auto; 
     padding: 20px;
 }
 
 .header-design-1 {
-    background: linear-gradient(135deg, #1354a4 0%, #2388CB 45%, #2A2F93 100%);
-    padding: 10px;
-    height: 51px; /* calc(50px + 1px) */
-    display: flex; /* Ensure flexbox properties work */
+    align-items: baseline;
+    background: #17A43D;
+    background: -moz-linear-gradient(-45deg, #17A43D 0%, #21BACB 40%, #152575 100%);
+    background: -webkit-linear-gradient(-45deg, #17A43D 0%, #21BACB 40%, #152575 100%);
+    background: linear-gradient(135deg, #17A43D 0%, #21BACB 40%, #152575 100%);
+    padding: 15px;
+    height: 60px; 
+    display: flex; 
     align-items: center;
     justify-content: space-between;
 }
 
 .header-design-1 h1, .header-design-1 h3 {
     color: #fff;
+    
 }
 
 .header-design-1 h1 {
     text-align: left;
-    margin-bottom: 4px;
+    margin-bottom: 10px;
 }
 
 .header-design-1 h3 {
     text-align: left;
     margin-bottom: 2px;
 }
-
-.header-design-1 nav ul {
-    display: flex;
-    align-items: center;
+img {
+    border-radius: 10%;
+    float: left;
+  }
+.button1{
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 24px;
+}
+.button2{
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 24px;
+}
+.button3{
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 24px;
+}
+.button4{
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 24px;
 }
 
-.header-design-1 nav ul li {
-    margin: 10px;
-}
-
-.header-design-1 nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
 
 .header-design-2 {
     background: linear-gradient(to bottom, #D8DD2F 0%, #BC6824 50%, #D8453D 100%);
-    padding: 10px;
-    height: 51px; /* calc(50px + 1px) */
-    display: flex; /* Ensure flexbox properties work */
+    padding: 15px;
+    height: 51px; 
+    display: flex; 
     align-items: center;
     justify-content: space-between;
 }
 
 .header-design-2 h1, .header-design-2 h3 {
-    color: #000; /* Use consistent colors */
+    color: #000; 
 }
 
 .header-design-2 h1 {

@@ -1,0 +1,67 @@
+header1 {
+    border: 5px solid black;
+    text-align: center;
+    padding: 15px;
+    background: linear-gradient(to bottom, #D8DD2F 0%, #c25903 50%, #D8453D 100%);
+}
+
+
+.header2 {
+    border: 5px solid black;
+    text-align: center;
+    padding: 15px;
+    background: linear-gradient(to bottom, #3edd2f 0%, #24adbc 50%, #1430d3 100%);
+}
+
+
+.header3 {
+    border: 5px solid black;
+    text-align: center;
+    padding: 15px;
+    background: linear-gradient(to bottom, #632fdd 0%, #bc246b 50%, #D8453D 100%);
+}
+
+
+.header4 {
+    border: 5px solid black;
+    text-align: center;
+    padding: 15px;
+    background: linear-gradient(to bottom, #0d0457 0%, #3b70c4 50%, #212461 100%);
+}
+
+.header5 {
+    border: 5px solid black;
+    text-align: center;
+    padding: 15px;
+    background: linear-gradient(to bottom, #25ca22 0%, #157514 50%, #074818 100%);
+}
+.footer1 {
+    order: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(to bottom, #D8DD2F 0%, #c25903 50%, #D8453D 100%);
+}
+.footer2 {
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(to bottom, #3edd2f 0%, #24adbc 50%, #1430d3 100%);
+}
+.footer3 {
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(to bottom, #632fdd 0%, #bc246b 50%, #D8453D 100%);
+}
+.footer4 {
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(to bottom, #0d0457 0%, #3b70c4 50%, #212461 100%);
+}
+.footer5 {
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(to bottom, #25ca22 0%, #157514 50%, #074818 100%);
+}

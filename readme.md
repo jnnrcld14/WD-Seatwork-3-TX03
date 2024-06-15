@@ -73,7 +73,9 @@ Guiding Question:
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - Hover Effect
-
+- Typewriter Effect
+- Bounce Effect
+- Fade In Effect
 
 ### Technology
 <!-- TODO: List of Technology Used -->
